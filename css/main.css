@@ -118,3 +118,8 @@ letter-spacing: 0.1em;
 .desc-left, .desc-right{
 	width: 567px;
 }
+.gallery{
+	margin-top: 67px;
+	display: flex;
+	justify-content: space-between;
+}
