@@ -123,3 +123,12 @@ letter-spacing: 0.1em;
 	display: flex;
 	justify-content: space-between;
 }
+.footer-text{
+	font-size: 15px;
+	font-family: 'Open Sans', sans-serif;
+	display: flex;
+	padding: 114px 0;
+}
+.footer-text p{
+	margin-right: 67px;
+}
