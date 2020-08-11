@@ -105,6 +105,10 @@ letter-spacing: 0.1em;
 	border: 1px solid #fff;
 	width: 238px;
 }
+.btn: hover{
+	background: #fff;
+	color: #000;
+}
 .description{
 	display: flex;
 	justify-content: space-between;
